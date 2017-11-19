@@ -8,6 +8,16 @@ Great podcast covering powershell news and capabilities, lots of 3rd party toolm
 https://www.gitbook.com/@devopscollective</br>
 Great collection of Powershell.org free ebooks, focus on some of the trickier parts of PowerShell such as error handeling and remoting </br>
 
+## PowerShell Books of note
+https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-second-edition
+The one, the only, the original MOL by Don Jones & Jeff Hicks
+
+https://www.manning.com/books/learn-powershell-toolmaking-in-a-month-of-lunches
+A great next step in your PowerShell progression, Toolmaking MOL covers advanced powershell concepts and toolmaking
+
+https://leanpub.com/pesterbook
+Pester, the PowerShell testing framework is a critical component as you move forward in your PowerShell career, Adam delivers what you need to get started with this framework and enhance your PowerShell skills
+
 ## Cheat Sheets
 PowerShell 4.0 </br>
 http://www.powershellmagazine.com/2014/04/24/windows-powershell-4-0-and-other-quick-reference-guides/</br>
